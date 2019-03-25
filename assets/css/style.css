@@ -1,0 +1,50 @@
+body {
+    background-image: url("../images/football.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#Title {
+    color: azure;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#subwrapper {
+    text-align: center;
+    color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: transparent, azure;
+    background-color: rgba(255, 255, 255, 0.603);
+    margin: auto;
+    width: 50%;
+    font-size: 20px;
+    
+}
+
+#Start {
+   background-color:transparent;
+   border-color: azure;
+   color: azure;
+   width: 20%;
+   font-size: 30px;
+   padding: 5px;
+   font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#subwrapper1 {
+    text-align: center;
+    color: azure;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: transparent, azure;
+    margin: auto;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    
+}
+
